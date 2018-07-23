@@ -1,3 +1,5 @@
-# BOILER PLATE
+# Note Web App
 
-> INCLUDE react and auth setup.
+> A simple notes keeping web application build using Meteor and React.
+
+> Tested using Motcha.

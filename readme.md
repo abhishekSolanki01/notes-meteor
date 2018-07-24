@@ -4,7 +4,7 @@
 
 
 
-##Getting Started
+## Getting Started
 
 > This app requires Meteor to be installed.
 
@@ -16,7 +16,7 @@ meteor
 ```
 
 
-##Running Tests.
+## Running Tests.
 
 > Run the following commands and view reporter at localhost port 3000.
 ```

@@ -1,5 +1,24 @@
 # Note Web App
 
-> A simple notes keeping web application build using Meteor and React.
+> A simple notes web application build on Meteor .
 
-> Tested using Motcha.
+
+
+##Getting Started
+
+> This app requires Meteor to be installed.
+
+```
+meteor npm install
+```
+```
+meteor
+```
+
+
+##Running Tests.
+
+> Run the following commands and view reporter at localhost port 3000.
+```
+npm test
+```
